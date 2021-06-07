@@ -6,12 +6,12 @@ import { Reset } from "./Reset"
 import Dan from "./assets/dan.jpg"
 import Dan2 from "./assets/dan2.jpg"
 import Liam from "./assets/liam.jpg"
-import Leon from "./assets/leon.jpg"
+import Ben from "./assets/ben.jpeg"
 import Stu from "./assets/Stu.jpg"
 import Rach from "./assets/rach.jpg"
 import Dave from "./assets/dave.jpg"
 import Andy from "./assets/andy.jpg"
-import Sid from "./assets/sid.jpeg"
+import Robbie from "./assets/robbie.jpeg"
 import pengTing from "./assets/ok.png"
 import github from "./assets/github.png"
 import reset from "./assets/reset.png"
@@ -24,9 +24,9 @@ class App extends Component {
       { id: 2, flipped: false, value: 2, image: Stu },
       { id: 3, flipped: false, value: 3, image: Dave },
       { id: 12, flipped: false, value: 6, image: Rach },
-      { id: 4, flipped: false, value: 4, image: Sid },
+      { id: 4, flipped: false, value: 4, image: Robbie },
       { id: 5, flipped: false, value: 1, image: Andy },
-      { id: 8, flipped: false, value: 4, image: Leon },
+      { id: 8, flipped: false, value: 4, image: Ben },
       { id: 9, flipped: false, value: 5, image: Dan },
       { id: 6, flipped: false, value: 2, image: Stu },
       { id: 16, flipped: false, value: 8, image: Liam },
